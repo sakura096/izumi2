@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "ShikimoriBot"
+          find: "Shikimori"
 
-          replace: "IzumiBot"
+          replace: "Izumi"
 
       - name: Create Pull Request
 
